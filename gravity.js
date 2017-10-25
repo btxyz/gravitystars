@@ -8,7 +8,7 @@ var tt_text = "Welcome to the night sky. It is much more visible ^without the ci
 var tt_array = tt_text.split("");
 var tt_timer;
 var tt_loop = true;
-var tt_speed = 100;
+var tt_speed = 85;
 var tt_delay = 3000;
 var tt_br = "^";
 var tt_line = document.createElement('span');
